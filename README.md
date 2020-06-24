@@ -9,7 +9,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 * Clone the [Unity-ARFoundation-echoAR](https://github.com/echoARxyz/Unity-ARFoundation-echoAR) sample code.
 * Open the sample scence under `AR Foundation\Scenes\FaceTracking\FaceMesh.unity`.
 * [Set the API key](https://docs.echoar.xyz/unity/using-the-sdk) in the `echoAR.cs` script inside the `echoAR\echoAR.prefab` using the the Inspector.
-* [Add an image hologram](https://docs.echoar.xyz/web-console/manage-pages/content-page/how-to-add-content) by uploding one of the face-#.jpg file from the [assets](./assets/) folder to the console.
+* [Add an image hologram](https://docs.echoar.xyz/web-console/manage-pages/content-page/how-to-add-content) by uploding one of the _face-#.jpg_ files from the [assets](./assets/) folder to the console.
 * Overwrite the exisitng _echoAR/CustomBehaviour.cs_ script with the new [_CustomBehaviour.cs_](./CustomBehaviour.cs) file.
 
 ## Build & Run
